@@ -94,7 +94,9 @@ The result of the Ensemble Classifier algorithm can be found in the [AlphabetSou
 
 The overall results of the deep learning model is the optimized model was not capable to achieve the target predictive accuracy higher than 75% with the modifications as dropping column in initial datasets, creating more bins for rare occurrences in columns, increasing the number of values for each bin, adding more neurons to a hidden layer and  hidden layers, using different activation functions for the hidden layers and adding the number of epochs to the training regime.
 
-As recomendation to achieve the target performance as the predictive accuracy higher than 75% it can be to keep all columns of input data and define the deep neural net model with 2 layers as followng model with 75,5% accuracy.
+As recommendation to achieve the target performance as the predictive accuracy higher than 75% it can be:
+1. keeping all columns of input data and 
+2. defining the deep neural net model with 2 layers as following with 75,5% accuracy.
 
 ![image](https://user-images.githubusercontent.com/68247343/140558641-01cc1d8a-1464-45f5-a255-93cf47f5285f.png)
 
