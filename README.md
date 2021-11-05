@@ -44,7 +44,8 @@ Since the purpose to create binary classification, the neurons were selected 80 
 
 The target model performance was achieved following:
 
-screen del 2
+![image](https://user-images.githubusercontent.com/68247343/140558318-0631ee8a-007f-4d9d-a2d8-c242c75e8b0c.png)
+
 ### `- Optimize the Model`
 
 In order to achieve a target predictive accuracy higher than 75% the model was  optimized. 
@@ -53,42 +54,39 @@ For 1 attempt the module was optimized as following:
 
   - dropping column
 
-screen
+![image](https://user-images.githubusercontent.com/68247343/140558173-7ca5720d-ca80-4ad7-a2ec-d3f7e608664b.png)
 
   - creating more bins for rare occurrences in columns
 
-screen
-
+![image](https://user-images.githubusercontent.com/68247343/140558199-798fe036-a254-496c-893d-d9feb1fee781.png)
 
 But the accuracy was decreased as on the screenshort
 
-screen
+![image](https://user-images.githubusercontent.com/68247343/140558263-e04eb345-5d58-42b1-b9b7-ca43b4f30836.png)
 
 For 2 attempt the module was optimized as following:
 
-  - adding more neurons to a hidden layer
-
-screen
-
-  - adding more hidden layers
+  - adding more neurons to a hidden layer and hidden layers
+ 
+ ![image](https://user-images.githubusercontent.com/68247343/140558404-5ca34f24-0a42-4eee-8ff6-6e89ad075592.png)
 
 The accuracy increased a bit but still low as on the screenshort:
 
-scree
+![image](https://user-images.githubusercontent.com/68247343/140558437-d3cb51f1-f5fc-4744-b3da-23a6127c1f5b.png)
 
 For 3 attempt the module was optimized as following:
 
   - using different activation functions for the hidden layers
 
-screen
+![image](https://user-images.githubusercontent.com/68247343/140558479-b4b8d884-f52d-4257-882c-8aa784bd8254.png)
 
   - adding the number of epochs to the training regime
 
-screen
+![image](https://user-images.githubusercontent.com/68247343/140558512-e7326d9b-db43-4595-a975-cb9b6116eb56.png)
 
 The accuracy increased but didn't achieve the target predictive accuracy higher than 75%.
 
-screen
+![image](https://user-images.githubusercontent.com/68247343/140558523-15d53fad-f8ba-445d-82f1-4212993af682.png)
 
 The result of the Ensemble Classifier algorithm can be found in the [AlphabetSoupCharity_Optimzation](./AlphabetSoupCharity_Optimzation.ipynb) file.
 
@@ -96,4 +94,11 @@ The result of the Ensemble Classifier algorithm can be found in the [AlphabetSou
 
 The overall results of the deep learning model is the optimized model was not capable to achieve the target predictive accuracy higher than 75% with the modifications as dropping column in initial datasets, creating more bins for rare occurrences in columns, increasing the number of values for each bin, adding more neurons to a hidden layer and  hidden layers, using different activation functions for the hidden layers and adding the number of epochs to the training regime.
 
-As recomendation to achieve the target performance as the predictive accuracy higher than 75% it can be to keep all initial data and define the deep neural net model with 2 layers.
+As recomendation to achieve the target performance as the predictive accuracy higher than 75% it can be to keep all initial data and define the deep neural net model with 2 layers as followng model with 75,4% accuracy.
+
+![image](https://user-images.githubusercontent.com/68247343/140558641-01cc1d8a-1464-45f5-a255-93cf47f5285f.png)
+
+![image](https://user-images.githubusercontent.com/68247343/140558657-fed15f75-297d-434c-a56a-808f414379a0.png)
+
+
+The overall results of the deep learning model is the optimized model was not capable to achieve the target predictive accuracy higher than 75% with the modifications as dropping column in initial datasets, creating more bins for rare occurrences in columns, increasing the number of values for each bin, adding more neurons to a hidden layer and  hidden layers, using different activation functions for the hidden layers and adding the number of epochs to the training regime.
