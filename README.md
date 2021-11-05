@@ -48,7 +48,7 @@ The target model performance was achieved following:
 
 ### `- Optimize the Model`
 
-In order to achieve a target predictive accuracy higher than 75% the model was  optimized. 
+In order to achieve the target predictive accuracy higher than 75% the model was  optimized. 
 
 For 1 attempt the module was optimized as following:
 
@@ -94,11 +94,8 @@ The result of the Ensemble Classifier algorithm can be found in the [AlphabetSou
 
 The overall results of the deep learning model is the optimized model was not capable to achieve the target predictive accuracy higher than 75% with the modifications as dropping column in initial datasets, creating more bins for rare occurrences in columns, increasing the number of values for each bin, adding more neurons to a hidden layer and  hidden layers, using different activation functions for the hidden layers and adding the number of epochs to the training regime.
 
-As recomendation to achieve the target performance as the predictive accuracy higher than 75% it can be to keep all initial data and define the deep neural net model with 2 layers as followng model with 75,4% accuracy.
+As recomendation to achieve the target performance as the predictive accuracy higher than 75% it can be to keep all columns of input data and define the deep neural net model with 2 layers as followng model with 75,4% accuracy.
 
 ![image](https://user-images.githubusercontent.com/68247343/140558641-01cc1d8a-1464-45f5-a255-93cf47f5285f.png)
 
 ![image](https://user-images.githubusercontent.com/68247343/140558657-fed15f75-297d-434c-a56a-808f414379a0.png)
-
-
-The overall results of the deep learning model is the optimized model was not capable to achieve the target predictive accuracy higher than 75% with the modifications as dropping column in initial datasets, creating more bins for rare occurrences in columns, increasing the number of values for each bin, adding more neurons to a hidden layer and  hidden layers, using different activation functions for the hidden layers and adding the number of epochs to the training regime.
