@@ -1,11 +1,11 @@
 # Neural Network Charity Analysis. Project 19 of the UofT.
 ## `-Contents-`	
 	
-- [Overview of the Neural Network Charity Analysis](#Overview-of-the-Credit-Risk-Analysis)	
+- [Overview of the Neural Network Charity Analysis](#Overview-of-the-Neural-Network-Charity-Analysis)	
 - [Resources](#resources)	
 - [The Neural Network Charity Analysis Result](#The-Neural-Network-Charity-Analysis-Result)
   - [Preprocessing Data for a Neural Network Model](#--Preprocessing-Data-for-a-Neural-Network-Model)
-  - [Compile, Train, and Evaluate the Model](#--Compile,-Train,-and-Evaluate-the-Model)
+  - [Compile, Train, and Evaluate the Model](#--Compile-,-Train-,-and-Evaluate-the-Model)
   - [Optimize the Model](#--Optimize-the-Model)
 - [The Neural Network Charity Analysis Summary](#The-Neural-Network-Charity-Analysis-Summary)
 ## `Overview of the Neural Network Charity Analysis`	
