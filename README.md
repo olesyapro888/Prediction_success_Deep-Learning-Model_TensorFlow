@@ -88,7 +88,7 @@ The accuracy increased but didn't achieve the target predictive accuracy higher 
 
 ![image](https://user-images.githubusercontent.com/68247343/140558523-15d53fad-f8ba-445d-82f1-4212993af682.png)
 
-The result of the Ensemble Classifier algorithm can be found in the [AlphabetSoupCharity_Optimzation](./AlphabetSoupCharity_Optimzation.ipynb) file.
+The result of the optimized module can be found in the [AlphabetSoupCharity_Optimzation](./AlphabetSoupCharity_Optimzation.ipynb) file.
 
 ## `The Neural Network Charity Analysis Summary`
 
@@ -101,3 +101,6 @@ As recommendation to achieve the target performance as the predictive accuracy h
 ![image](https://user-images.githubusercontent.com/68247343/140558641-01cc1d8a-1464-45f5-a255-93cf47f5285f.png)
 
 ![image](https://user-images.githubusercontent.com/68247343/140558657-fed15f75-297d-434c-a56a-808f414379a0.png)
+
+The result of the Recommendation can be found in the [Recomendation](./Recomendation.ipynb) file.
+
