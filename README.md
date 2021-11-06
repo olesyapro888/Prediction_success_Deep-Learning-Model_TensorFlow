@@ -102,5 +102,5 @@ As recommendation to achieve the target performance as the predictive accuracy h
 
 ![image](https://user-images.githubusercontent.com/68247343/140558657-fed15f75-297d-434c-a56a-808f414379a0.png)
 
-The result of the Recommendation can be found in the [Recomendation](./Recomendation.ipynb) file.
+The result of the Recommendation can be found in the [Recommendation](./Recommendation.ipynb) file.
 
