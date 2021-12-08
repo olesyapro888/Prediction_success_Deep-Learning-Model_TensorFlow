@@ -1,4 +1,4 @@
-# Neural Network Charity Analysis. Project 19 of the UofT.
+# Neural Network Charity Analysis. The project 19 of the University of Toronto.
 ## `-Contents-`	
 	
 - [Overview of the Neural Network Charity Analysis](#Overview-of-the-Neural-Network-Charity-Analysis)	
@@ -10,7 +10,7 @@
 - [The Neural Network Charity Analysis Summary](#The-Neural-Network-Charity-Analysis-Summary)
 ## `Overview of the Neural Network Charity Analysis`	
 	
-The purpose for the project is to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
+The purpose of the project is to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 The analysis consists of three technical analysis deliverables and a written report as the following: 
 
@@ -18,6 +18,7 @@ The analysis consists of three technical analysis deliverables and a written rep
 - Compile, Train, and Evaluate the Model;
 - Optimize the Model;
 - Submit a Written Report on the Neural Network Model.
+
 ## `Resources`	
 The analysis is created using next software: Jupyter-notebook 6.3.0, Python 3.8.8, Pandas 1.2.4, machine learning libraries for Python: tensorflow 2.6.0, scikit-learn 0.24.1, Visual Studio Code 1.58.0.
 
@@ -103,4 +104,3 @@ As recommendation to achieve the target performance as the predictive accuracy h
 ![image](https://user-images.githubusercontent.com/68247343/140558657-fed15f75-297d-434c-a56a-808f414379a0.png)
 
 The result of the Recommendation can be found in the [Recommendation](./Recommendation.ipynb) file.
-
