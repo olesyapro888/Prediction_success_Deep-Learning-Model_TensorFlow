@@ -1,4 +1,5 @@
-# Neural Network Charity Analysis. The project 19 of the University of Toronto.
+# Prediction to define applicants' success of Alphabet Soup funds using Pandas, Scikit-learn, and TensorFlow to design a Neural Network or Deep Learning Model.
+
 ## `-Contents-`	
 	
 - [Overview of the Neural Network Charity Analysis](#Overview-of-the-Neural-Network-Charity-Analysis)	
